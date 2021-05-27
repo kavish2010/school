@@ -1,0 +1,37 @@
+#marqueeStyle{
+    background-color: aqua;
+}
+.school_mainDiv{
+    border:1px solid aqua;
+    padding-left: 0px;
+    padding-right: 0px;
+    float:none;
+    }
+.school_mainDiv img{
+width: 100%;
+
+}
+.school_mainDiv hr{
+    width:230px;
+    
+}
+.school_mainDiv h5,.school_mainDiv p{
+    margin-left: 20px;
+    
+    
+}
+.school_head{
+    font-size:20px;
+    padding:6px 20px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display:inline-block;
+    
+}
+.school_head i{
+    float:right;
+}
+.school_text span{
+    color:#ff7700;
+}
